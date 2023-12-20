@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-En tant qu'apprenant en développement web chez BeCode, je suis actuellement à la recherche d'un stage à partir du 11 mars.
+Je m'appelle Tim Desmet et en tant qu'apprenant en développement web chez BeCode, je suis actuellement à la recherche d'un stage à partir du 11 mars.
 
 ## Objectif
 
@@ -10,24 +10,44 @@ Passionné par l'informatique grâce à ma fascination pour le gaming et ma rech
 
 ## Compétences
 
-### Langages back-end
+<div align="center">
+
+### Langages
+
+#### Back-end
 - <i class="fab fa-php"></i> PHP
 - <i class="fas fa-database"></i> SQL
 
-### Concepts back-end
-- Paradigme MVC
-- POO (Programmation Orientée Objet)
-- Namespace
+</div>
 
-### Langages front-end
+<div align="center">
+
+#### Front-end
 - <i class="fab fa-html5"></i> HTML
 - <i class="fab fa-css3-alt"></i> CSS
 - <i class="fab fa-sass"></i> SASS
 - <i class="fab fa-js"></i> Javascript
 
-### Concepts front-end
+</div>
+
+<div align="center">
+
+### Concepts
+
+#### Back-end
+- Paradigme MVC
+- POO (Programmation Orientée Objet)
+- Namespace
+
+</div>
+
+<div align="center">
+
+#### Front-end
 - Responsive Design
 - DOM (Document Object Model)
+
+</div>
 
 Je suis motivé à mettre en pratique ces connaissances au sein d'une équipe innovante.
 
@@ -39,4 +59,5 @@ Je suis motivé à mettre en pratique ces connaissances au sein d'une équipe in
 ## Opportunités
 
 Je suis ouvert à toute opportunité de stage ou de collaboration professionnelle et vous encourage à me contacter par [e-mail](mailto:timdesmet00@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/tim-desmet-dev/) si vous avez des opportunités à discuter.
+
 
