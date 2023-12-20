@@ -10,27 +10,17 @@ Passionné par l'informatique grâce à ma fascination pour le gaming et ma rech
 
 ## Compétences
 
-<div align="center">
-
 ### Langages
 
 #### Back-end
 - <i class="fab fa-php"></i> PHP
 - <i class="fas fa-database"></i> SQL
 
-</div>
-
-<div align="center">
-
 #### Front-end
 - <i class="fab fa-html5"></i> HTML
 - <i class="fab fa-css3-alt"></i> CSS
 - <i class="fab fa-sass"></i> SASS
 - <i class="fab fa-js"></i> Javascript
-
-</div>
-
-<div align="center">
 
 ### Concepts
 
@@ -39,15 +29,9 @@ Passionné par l'informatique grâce à ma fascination pour le gaming et ma rech
 - POO (Programmation Orientée Objet)
 - Namespace
 
-</div>
-
-<div align="center">
-
 #### Front-end
 - Responsive Design
 - DOM (Document Object Model)
-
-</div>
 
 Je suis motivé à mettre en pratique ces connaissances au sein d'une équipe innovante.
 
