@@ -22,6 +22,10 @@ Passionné par l'informatique grâce à ma fascination pour le gaming et ma rech
 - <img align="center" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
 - <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
+### Framework
+
+- <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+
 ### Concepts
 
 #### Back-end
