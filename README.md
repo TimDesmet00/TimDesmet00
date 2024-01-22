@@ -25,6 +25,8 @@ Passionné par l'informatique grâce à ma fascination pour le gaming et ma rech
 ### Framework
 
 - <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+- <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+
 
 ### Concepts
 
