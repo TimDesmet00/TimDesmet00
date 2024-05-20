@@ -2,11 +2,11 @@
 
 ## À propos de moi
 
-Je m'appelle Tim Desmet et en tant qu'apprenant en développement web chez BeCode, je suis actuellement à la recherche d'un stage à partir du 11 mars.
+Je m'appelle Tim Desmet. Je viens de terminer ma formation en développement web chez BeCode et je suis actuellement à la recherche d'un poste de développeur web.
 
 ## Objectif
 
-Passionné par l'informatique grâce à ma fascination pour le gaming et ma recherche constante d'apprentissage, mon objectif est de devenir développeur full-stack orienté back-end dans un premier temps au sein d'une entreprise dynamique.
+Passionné par l'informatique grâce à ma fascination pour le gaming et ma quête constante de nouvelles connaissances, mon objectif est de devenir développeur full-stack, bien que je sois plus à l'aise avec le back-end, au sein d'une entreprise dynamique.
 
 ## Compétences
 
@@ -28,6 +28,7 @@ Passionné par l'informatique grâce à ma fascination pour le gaming et ma rech
 - <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 - <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
 - <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+- <img align="center" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
 
 ### Concepts
@@ -50,6 +51,6 @@ Je suis motivé à mettre en pratique ces connaissances au sein d'une équipe in
 
 ## Opportunités
 
-Je suis ouvert à toute opportunité de stage ou de collaboration professionnelle et vous encourage à me contacter par [e-mail](mailto:timdesmet00@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/tim-desmet-dev/) si vous avez des opportunités à discuter.
+Je suis ouvert à toute opportunité de collaboration professionnelle et vous encourage à me contacter par [e-mail](mailto:timdesmet00@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/tim-desmet-dev/) si vous avez des opportunités à discuter.
 
 
